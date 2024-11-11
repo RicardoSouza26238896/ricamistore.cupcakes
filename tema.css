@@ -1,0 +1,104 @@
+body {
+
+	font-family: 'Arial'
+	
+	, Helvetica
+	
+	,sans-serif;
+
+
+	
+	background-image: url("https://cdn.awsli.com.br/1142/1142652/arquivos/the-background-301145_960_720.png");
+	
+	
+		background-color: #050000;
+	
+	
+		background-position: top center;
+	
+	
+		background-attachment: scroll;
+	
+	
+		background-repeat: repeat;
+	
+
+}
+
+:root {
+  --cor-principal: #030000;
+	--cor-botao: #030000;
+}
+a, a:hover, a:focus, .cor-principal, .menu a:hover, .atributo-comum a:hover span, .atributo-comum .active a span { color: #030000; } /* Cor Principal - Textos e Links */
+.fundo-principal, .botao.principal, .botao.principal:hover, .menu li:hover > a .fundo-secundario, .flex-control-paging li a.flex-active, .dropdown-menu > li > a:hover, .filtro.lista ul li label:hover, .filtro.lista ul li.active label , .menu-simples li a:hover, .menu-simples li.active a { background-color: #030000; } /* Cor Principal - Background */
+.borda-principal, .atributos ul li a:hover, .atributos ul li.active a, .tema-scuro .nav-tabs li.active a, .elastislide-carousel ul li.active a { border-color: #030000; } /* Cor Principal - Bordas */
+
+
+
+:root {
+  --cor-secundaria: #060000;
+}
+.cor-secundaria { color: #060000; }
+.fundo-secundario { background-color: #060000; }
+.borda-secundaria { border-color: #060000; }
+
+
+
+.titulo {
+	font-family: 'Open Sans'
+  
+  , serif;
+	
+	
+}
+
+
+
+#cabecalho {
+
+	
+		
+		background-image: url("https://cdn.awsli.com.br/1142/1142652/arquivos/the-background-301145_960_720.png");
+		
+		
+		background-color: #070000;
+		
+		
+		background-position: top center;
+		
+		
+			background-repeat: repeat;
+		
+	
+}
+
+
+
+.barra-inicial { background-color: #444444; }
+
+
+
+
+#rodape .institucional {
+	
+		
+		background-image: url("https://cdn.awsli.com.br/1142/1142652/arquivos/the-background-301145_960_720.png");
+		
+		
+		
+		background-position: top center;
+		
+		
+			background-repeat: repeat;
+		
+	
+}
+
+
+:root {
+	--cor-botao: #010000;
+}
+.botao.principal.botao-comprar, .botao.principal.grande, .acoes-produto-responsiva .tag-comprar { background-color: #010000; }
+
+
+

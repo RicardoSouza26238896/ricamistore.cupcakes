@@ -1,0 +1,31 @@
+
+{
+  "id": "/?utm_source=pwa",
+  "background_color": "#FFFFFF",
+  "description": "A Ricami Store, tem uma grande variedade de deliciosos cupcakes para todos os gostos.  Telefone e Whatsapp: (19) 99350-8526",
+  "dir": "ltr",
+  "lang": "pt-BR",
+  "display": "standalone",
+  "name": "CupCake Store",
+  "orientation": "natural",
+  "scope": "/",
+  "short_name": "CupCake Store",
+  "start_url": "/?utm_source=pwa",
+  "theme_color": "#030000",
+  "categories": ["shopping", "business"],
+  "shortcuts": [
+    {
+      "name": "Meus Pedidos",
+      "short_name": "Pedidos",
+      "description": "Visualizar meus pedidos pedidos realizados",
+      "url": "https://ricamistore.lojaintegrada.com.br/conta/pedido/listar"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://cdn.awsli.com.br/1142/1142652/favicon/cupcakes-template-cupcake-bakery-brochure-cupcake-shop-menu-design-restaurant-ba-wbp99cdcao.jpg",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
